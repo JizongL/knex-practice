@@ -1,0 +1,21 @@
+INSERT INTO blogful_articles(title,content,date_published)
+VALUES 
+    ('articles','articles contents',  now() - '21 days'::INTERVAL),
+    ('articles','articles contents' , now() - '21 days'::INTERVAL),
+    ('articles','articles contents' , now() - '21 days'::INTERVAL),
+    ('articles','articles contents' , now() - '21 days'::INTERVAL),
+    ('articles','articles contents' , now() - '9 days'::INTERVAL),
+    ('articles','articles contents' , now() - '9 days'::INTERVAL),
+    ('articles','articles contents' , now() - '9 days'::INTERVAL),
+    ('articles','articles contents' , now() - '9 days'::INTERVAL),
+    ('articles','articles contents' , now() - '9 days'::INTERVAL),
+    ('articles','articles contents' , now() - '7 days'::INTERVAL),
+    ('articles','articles contents' , now() - '7 days'::INTERVAL),
+    ('articles','articles contents' , now() - '5 days'::INTERVAL),
+    ('articles','articles contents' , now() - '5 days'::INTERVAL),
+    ('articles','articles contents' , now() - '5 days'::INTERVAL),
+    ('articles','articles contents' , now() - '5 days'::INTERVAL),
+    ('articles','articles contents' , now() - '4 days'::INTERVAL),
+    ('articles','articles contents' , now() - '4 days'::INTERVAL),
+    ('articles','articles contents' , now() - '4 days'::INTERVAL),
+    ('articles','articles contents' , now() - '3 days'::INTERVAL);
